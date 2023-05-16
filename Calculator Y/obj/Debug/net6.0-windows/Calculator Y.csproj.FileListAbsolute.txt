@@ -1,0 +1,17 @@
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\bin\Debug\net6.0-windows\Calculator Y.exe
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\bin\Debug\net6.0-windows\Calculator Y.deps.json
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\bin\Debug\net6.0-windows\Calculator Y.runtimeconfig.json
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\bin\Debug\net6.0-windows\Calculator Y.dll
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\bin\Debug\net6.0-windows\Calculator Y.pdb
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.csproj.AssemblyReference.cache
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator_Y.Form1.resources
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.csproj.GenerateResource.cache
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.AssemblyInfoInputs.cache
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.AssemblyInfo.cs
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.csproj.CoreCompileInputs.cache
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.dll
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\refint\Calculator Y.dll
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.pdb
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\Calculator Y.genruntimeconfig.cache
+C:\Users\MAHAMA ADAMS\source\repos\Calculator Y\Calculator Y\obj\Debug\net6.0-windows\ref\Calculator Y.dll
